@@ -1,0 +1,21 @@
+aircrafts list: [{'x': 21, 'y': 41}, {'x': 31, 'y': 51}, {'x': 61, 'y': 81}, {'x': 71, 'y': 91}, {'x': 100, 'y': 110}]
+
+
+x of aircraft_1: 21
+y of aircraft_1: 41
+
+
+x of aircraft_2: 31
+y of aircraft_2: 51
+
+
+x of aircraft_3: 61
+y of aircraft_3: 81
+
+
+x of aircraft_4: 71
+y of aircraft_4: 91
+
+
+x of aircraft_5: 100
+y of aircraft_5: 110
